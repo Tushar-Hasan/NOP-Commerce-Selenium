@@ -1,0 +1,1 @@
+{"uuid":"245bf602-33cc-464d-ba71-4da2da60019a","name":"BaseTest.QuiteBrowser","children":["0f1149c1-0621-4016-962e-35e598b6375f"],"description":"","befores":[],"afters":[{"name":"QuiteBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724221649588,"stop":1724221649747}],"start":1724221649588,"stop":1724221649747}
